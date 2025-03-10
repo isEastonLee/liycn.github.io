@@ -43,7 +43,7 @@ theme:
     - search.suggest                          # 搜索建议
     - search.share                            # 搜索共享
     - navigation.tracking                     # 锚跟踪
-    - navigation.instant                      # 即时加载
+    - navigation.inst ant                     # 即时加载
     - navigation.instant.prefetch             # 即时预取
     - navigation.instant.progress             # 进度指标
     - content.code.select                     # 代码选择按钮
@@ -53,8 +53,8 @@ theme:
     - navigation.tabs                         # 导航栏始终显示
     - navigation.tabs.sticky                  # 导航栏始终显示
     - navigation.sections                     # 不折叠导航栏
-    - navigation.indexes                      # 排除 大标题 在页面导航栏重复问题
-    - content.tooltips                        # 替换浏览器的title属性渲染逻辑
+    - navigation.indexes                      # 排除 Blog 标题 在页面导航栏重复问题
+    - content.tooltips                        # 替换浏览器的 title 属性渲染逻辑
     - content.footnote.tooltips               # 注脚工具提示
 
 extra:
