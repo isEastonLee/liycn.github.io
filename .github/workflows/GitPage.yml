@@ -53,7 +53,7 @@ jobs:
       - name: Checkout public repository
         uses: actions/checkout@v4
         with:
-          repository: liycn/test_public  # 你的目标公共仓库
+          repository: liycn/liycn.github.io  # 你的目标公共仓库
           token: ${{ secrets.PUBLIC_REPO_TOKEN }}
           path: public-repo
 
