@@ -98,7 +98,6 @@ extra_javascript:
   - javascripts/tablesort.js
   - javascripts/index.js
 
-
 #-----------------------------
 # Python Markdown 扩展
 #-----------------------------
