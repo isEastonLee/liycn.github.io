@@ -1,29 +1,50 @@
-name: Lee 
+name: Lee
+
 on:
   push:
     branches:
       - master 
       - main
+
 permissions:
   contents: write
+
 jobs:
-  deploy:
+  sync:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: 3.x
-      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
-      - uses: actions/cache@v4
-        with:
-          key: mkdocs-material-${{ env.cache_id }}
-          path: .cache 
-          restore-keys: |
-            mkdocs-material-
-      - run: pip install \
-                mkdocs-material \
-                mkdocs-glightbox \
-                pymdown-extensions \
-                "mkdocs-material[imaging]"
-      - run: mkdocs gh-deploy --force
+    - name: Checkout private repository
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0  # 获取完整的提交历史
+
+    - name: Filter files (exclude report/)
+      run: |
+        # 创建一个临时目录来存放过滤后的文件
+        mkdir -p public-files
+
+        # 使用 rsync 复制文件，同时排除 report/ 目录
+        rsync -av --exclude='report/' ./ public-files/
+
+    - name: Checkout public repository
+      uses: actions/checkout@v3
+      with:
+        repository: liycn/liycn.github.io  # 公共仓库地址
+        token: ${{ secrets.PUBLIC_REPO_TOKEN }}
+        path: public-repo
+
+    - name: Copy filtered files to public repository
+      run: |
+        # 将过滤后的文件复制到公共仓库目录
+        cp -r public-files/* public-repo/
+        rm -rf public-files
+
+    - name: Commit and push changes to public repository
+      run: |
+        cd public-repo
+        git config user.name github-actions[bot]
+        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+        git add .
+        git commit -m "Sync from private repository" || echo "No changes to commit"
+        git push
