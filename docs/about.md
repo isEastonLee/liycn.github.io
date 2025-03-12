@@ -29,7 +29,8 @@ glightbox: false
 [ :simple-gmail: __Gmail__ ](mailto:isleeyearn@gmail.com){ .md-button .md-button--primary target="_blank" title="isleeyearn@gmail.com"}
 [ :simple-telegram: __Telegram__ ](https://t.me/LeeYeaern){ .md-button .md-button--primary target="_blank"}
 [ :simple-github: __GitHub__ ](https://github.com/LeeYearn){ .md-button .md-button--primary target="_blank" title="liycn"}
-[ :fontawesome-brands-steam-symbol: __Steam__ ](https://steamcommunity.com/profiles/76561199004333008/){ .md-button .md-button--primary target="_blank" title="好友码"}
+[ :simple-tiktok: __抖音__ ](https://www.douyin.com/user/MS4wLjABAAAAOvMRoJmc5JWGlQQh0Db9Iml88UFzcLf0wmfEIi4GWEvBIUPGaDtuopwiqyE4C3an?from_tab_name=main&vid=7358879260318207242){ .md-button .md-button--primary target="_blank" title="LeeYearn"}
+[ :fontawesome-brands-steam-symbol: __Steam__ ](https://steamcommunity.com/profiles/76561199004333008/){ .md-button .md-button--primary target="_blank" title="好友码1044067280"}
 
 
 ## :icons8-skill: 技术拼图
@@ -52,29 +53,13 @@ glightbox: false
 <div class="grid cards" markdown>
 
 - :material-language-c: __C__ 程序设计开发
-- :material-language-cpp: __C++__ Ros 开发
-- :material-language-python: __Python__ 模型构建 训练 测试
+- :material-language-python: __Python__ 还能干啥呢
 - :material-language-java: __Java__ 服务端开发
 - :material-vuejs: __VUE__ 前端开发
 - :simple-figma: __Figma__ UI设计 交互原型
-- :material-microsoft-office: __Office__ 全能
+- :material-microsoft-office: __Office__ 全能型选手
 
 </div>
-
-<!-- ## 我的极客实验室
-
-家庭自建服务器：将技术热情延伸至生活场景
-
-- 通过 DDNS 实现外网安全访问
-
-- 搭建基于 OpenVPN 的私有网络，配合 Nginx 实现多服务端口统一管理
-
-- 基于 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material){target="_blank"} 建立个人博客
-
---- -->
-
-<!-- ![Image title](https://dummyimage.com/600x400/eee/aaa){ align=left } -->
-
 
 ## :icons8-education: 教育经历
 
