@@ -44,6 +44,12 @@ glightbox: false
 
 -   :icons8-cloudflare: [__Cloudflare__ - 为 "无处不在的世界" 打造的云](https://dash.cloudflare.com/){target="_blank"}
 
+- :other-aliCloud: [__Ali Cloud__ - 计算，为了无法计算的价值 ](https://home.console.aliyun.com/home/dashboard/ProductAndService){target="_blank"}
+
+- :other-TencentCloud: [__Tencent Cloud__ - 产业智变·云启未来 ](https://console.cloud.tencent.com/){target="_blank"}
+
+- :other-huaweiCloud: [__Huawei Cloud__ - 共建智能世界云底座 ](https://console.huaweicloud.com/console/){target="_blank"}
+
 </div>
 
 ---
