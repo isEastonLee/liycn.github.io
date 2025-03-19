@@ -126,7 +126,7 @@ glightbox: false
 
     [:octicons-arrow-right-24: 需要代理](https://xn--mes358aby2apfg.com/#/register?code=If4MXXad){target="_blank"}
      | [可以直连](https://xn--cp3a08l.com/#/register?code=7KiFX6Bk){target="_blank"}
-     | [我的专属链接](https://xn--mes358aby2apfg.com){target="_blank"}
+     <!-- | [我的专属链接](https://xn--mes358aby2apfg.com){target="_blank"} -->
 
 -   :icons8-webutility: __WebUtility__
 
