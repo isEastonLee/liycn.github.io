@@ -29,6 +29,7 @@ glightbox: false
 - :icons8-deepseek: [__DeepSeek - 探索未至之境__](https://chat.deepseek.com/a/chat){target="_blank"}
 - :icons8-grok-blank:{.only-light} [__Grok - 构建推动人类进步的人工智能__](https://grok.com/){target="_blank"}
 - :other-gemini: [__Gemini - 轻松对话，获取创意灵感__](https://gemini.google.com/app){target="_blank"}
+- :other-Kimi: [__Kimi - 会推理解析，能深度思考的AI助手__](https://kimi.ai/){target="_blank"}
 
 </div>
 
