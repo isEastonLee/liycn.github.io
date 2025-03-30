@@ -14,10 +14,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - name: Configure Git Credentials
+      - name: Commit and push compiled site to public repository
         run: |
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          cd public-repo
+          git config user.name "LeeYearn"
+          git config user.email "leeyearn@gmail.com"
+          git add .
+          git commit -m "Sync compiled site from private repository" || echo "No changes to commit"
+          git push
       
       - uses: actions/setup-python@v5
         with:
