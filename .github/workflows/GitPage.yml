@@ -36,6 +36,9 @@ jobs:
           token: ${{ secrets.PUBLIC_REPO_TOKEN }}
           path: public-repo
 
+      - name: Debug: Check directories
+        run: ls -al
+
 
       - run: pip install \
                 mkdocs-material \
