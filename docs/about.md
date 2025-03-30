@@ -35,29 +35,29 @@ glightbox: false
 
 ## :icons8-skill: 技术拼图
 
-<h3 align="center">系统架构 - 服务器运维 - 网络安全</h3>
+<h3 align="center">系统 | 运维 | 网安</h3>
 
 <div class="grid cards" markdown>
 
-- :simple-stmicroelectronics: __STM32__ 嵌入式开发
-- :material-router-network-wireless: __无线通信__ 射频指纹
-- :simple-linux: __Linux__ 服务器搭建与管理
-- :simple-openwrt: __OpenWrt__ 智能路由配置
-- :simple-openvpn: __OpenVPN__ 安全隧道搭建
-- :simple-nginx: __Nginx__ 正反向代理
+- :simple-stmicroelectronics: __STM32__ 嵌入式
+- :material-router-network-wireless: __低频蓝牙__ 射频指纹
+- :simple-linux: __Linux__ 服务器
+- :simple-openwrt: __OpenWrt__ 路由
+- :simple-openvpn: __OpenVPN__ 隧道
+- :simple-nginx: __Nginx__ 代理
 
 </div>
 
-<h3 align="center">多语言开发 - UI设计 - 顶级办公</h3>
+<h3 align="center">开发 | 设计 | 办公</h3>
 
 <div class="grid cards" markdown>
 
-- :material-language-c: __C__ 程序设计开发
-- :material-language-python: __Python__ 还能干啥呢
-- :material-language-java: __Java__ 服务端开发
-- :material-vuejs: __VUE__ 前端开发
-- :simple-figma: __Figma__ UI设计 交互原型
-- :material-microsoft-office: __Office__ 全能型选手
+- :material-microsoft-office: __Office__ 全能天赋型选手
+- :material-language-c: __C__ 开发
+- :material-language-python: __Python__ 不好说
+- :material-language-java: __Java__ 后端
+- :material-vuejs: __VUE__ 前端
+- :simple-figma: __Figma__ 设计与交互
 
 </div>
 

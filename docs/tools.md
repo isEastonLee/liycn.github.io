@@ -25,9 +25,9 @@ glightbox: false
 
 <div class="grid cards" markdown>
 
+- :icons8-chatgpt: [__Chat GPT - 获得答案、寻找灵感__](https://chat.openai.com/chat){target="_blank"}
 - :icons8-deepseek: [__DeepSeek - 探索未至之境__](https://chat.deepseek.com/a/chat){target="_blank"}
 - :icons8-grok-blank:{.only-light} [__Grok - 构建推动人类进步的人工智能__](https://grok.com/){target="_blank"}
-- :icons8-chatgpt: [__Chat GPT - 获得答案、寻找灵感__](https://chat.openai.com/chat){target="_blank"}
 - :other-gemini: [__Gemini - 轻松对话，获取创意灵感__](https://gemini.google.com/app){target="_blank"}
 
 </div>

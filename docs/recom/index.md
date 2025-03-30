@@ -23,8 +23,10 @@ glightbox: false
 
 <div class="grid cards" markdown>
 
-- [__Clash Verge Rev__ - 为 Windows、MacOS 和 Linux 提供量身定制代理体验](/recom/ClashVergeRev/)
+- [__Clash Verge Rev__](/recom/ClashVergeRev/)
 
-- [__gh-proxy__ - 为 github release、archive以及项目文件的加速项目](/recom/gh-proxy/)
+- [__Clash Meta For Android__](/recom/ClashMeta/)
+
+- [__gh-proxy__](/recom/gh-proxy/)
 
 </div>

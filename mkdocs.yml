@@ -147,8 +147,9 @@ nav:
 - Home: index.md
 - Tools: tools.md
 - Recom: 
-  - recom/recom.md
+  - recom/index.md
   - Clash Verge Rev: recom/ClashVergeRev.md
+  - Clash Meta: recom/ClashMeta.md
   - gh-proxy: recom/gh-proxy.md
 - Blog:
   - blog/index.md
