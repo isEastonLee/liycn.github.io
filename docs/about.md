@@ -111,7 +111,7 @@ glightbox: false
     
 - [__Sevenalist__ <br> Never Stop Thinking.](https://dczcq.cn){target="_blank"}
 
-- [__W W__ <br> 据本人所说是佚名帅哥](https://www.wanjc.top/){target="_blank"}
+- [__W W__ <br> 据本人所说是帅哥](https://www.wanjc.top/){target="_blank"}
 
 - [__Eason Chan__ <br> 👀（单方面友情）](https://www.easonchan.net/hk/?lang=zh-hans){target="_blank"}
     
