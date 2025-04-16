@@ -23,6 +23,8 @@ glightbox: false
 
 <div class="grid cards" markdown>
 
+- [__Bluetooth-RF-Fingerprint__](https://github.com/liycn/Bluetooth-RF-Fingerprint){target="_blank"}
+
 - [__Clash Verge Rev__](/recom/ClashVergeRev/)
 
 - [__Clash Meta For Android__](/recom/ClashMeta/)
