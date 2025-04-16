@@ -21,15 +21,31 @@ glightbox: false
 
 ---
 
-<h2 align="center" style="font-weight: bolder; line-height:1;">- 问君何能尔，心远地自偏 -</h2>
+<h2 align="center" style="font-weight: bolder;">- 问君何能尔，心远地自偏 -</h2>
 
 <div class="grid cards" markdown>
 
-- :icons8-chatgpt: [__Chat GPT - 获得答案、寻找灵感__](https://chat.openai.com/chat){target="_blank"}
-- :icons8-deepseek: [__DeepSeek - 探索未至之境__](https://chat.deepseek.com/a/chat){target="_blank"}
-- :icons8-grok-blank:{.only-light} [__Grok - 构建推动人类进步的人工智能__](https://grok.com/){target="_blank"}
-- :other-gemini: [__Gemini - 轻松对话，获取创意灵感__](https://gemini.google.com/app){target="_blank"}
-- :other-Kimi: [__Kimi - 会推理解析，能深度思考的AI助手__](https://kimi.ai/){target="_blank"}
+- :material-folder: [__正大光明__](../public/){target="_blank"}
+- :material-folder-lock: [__深藏不露__](../private/){target="_blank"}
+- :simple-openwrt: [__OpenWrt__](http://10.0.0.1){target="_blank"}
+- :material-speedometer: [__内网测速__](http://10.0.0.1:3300){target="_blank"}
+- :material-router-network-wireless: [__内网穿透__](http://10.0.0.1:16601){target="_blank"}
+- :material-google-translate: [__谷歌翻译__](https://translate.google.com/?hl=zh-CN&sl=zh-CN&tl=en&op=translate){target="_blank"}
+<!--  -->
+</div>
+
+---
+
+<h2 align="center" style="font-weight: bolder; line-height:1;">- 孤云将野鹤，岂向人间住 -</h2>
+
+<div class="grid cards" markdown>
+
+- :icons8-chatgpt: [__Chat GPT__](https://chat.openai.com/chat){target="_blank"}
+- :icons8-deepseek: [__DeepSeek__ ](https://chat.deepseek.com/a/chat){target="_blank"}
+- :icons8-grok-blank:{.only-light} [__Grok__ ](https://grok.com/){target="_blank"}
+- :other-gemini: [__Gemini__](https://gemini.google.com/app){target="_blank"}
+- :simple-claude: [__Claude__ ](https://claude.ai/){target="_blank"}
+- :other-Kimi: [__Kimi__](https://kimi.ai/){target="_blank"}
 
 </div>
 
@@ -39,17 +55,17 @@ glightbox: false
 
 <div class="grid cards" markdown>
 
--   :icons8-itdog: [__IT DOG__ - 网络延迟测试、服务器延迟测试](https://www.itdog.cn/ping/){target="_blank"}
+-   :icons8-itdog: [__IT DOG__](https://www.itdog.cn/ping/){target="_blank"}
 
--   :icons8-USTC: [__中科大测速__ - by 中科大网络空间安全学院](https://test.ustc.edu.cn/){target="_blank"}
+-   :icons8-USTC: [__中科大测速__](https://test.ustc.edu.cn/){target="_blank"}
 
--   :icons8-cloudflare: [__Cloudflare__ - 为 "无处不在的世界" 打造的云](https://dash.cloudflare.com/){target="_blank"}
+-   :icons8-cloudflare: [__Cloudflare__](https://dash.cloudflare.com/){target="_blank"}
 
-- :other-aliCloud: [__Ali Cloud__ - 计算，为了无法计算的价值 ](https://home.console.aliyun.com/home/dashboard/ProductAndService){target="_blank"}
+- :simple-alibabacloud: [__Ali Cloud__ ](https://home.console.aliyun.com/home/dashboard/ProductAndService){target="_blank" }
 
-- :other-TencentCloud: [__Tencent Cloud__ - 产业智变·云启未来 ](https://console.cloud.tencent.com/){target="_blank"}
+- :other-TencentCloud: [__Tencent Cloud__](https://console.cloud.tencent.com/){target="_blank"}
 
-- :other-huaweiCloud: [__Huawei Cloud__ - 共建智能世界云底座 ](https://console.huaweicloud.com/console/){target="_blank"}
+- :other-huaweiCloud: [__Huawei Cloud__](https://console.huaweicloud.com/console/){target="_blank"}
 
 </div>
 
@@ -186,6 +202,5 @@ glightbox: false
     
 
     [:octicons-arrow-right-24: 去看看](https://sms-activate.guru/?ref=12351402){target="_blank"}
-     | 促销代码 `12351402`
 
 </div>
