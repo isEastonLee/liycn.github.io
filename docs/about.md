@@ -37,8 +37,6 @@ glightbox: false
 
 ## :icons8-skill: 技术拼图
 
-<h3 align="center">系统 | 运维 | 网安</h3>
-
 <div class="grid cards" markdown>
 
 - :simple-stmicroelectronics: __STM32__ 嵌入式
@@ -47,13 +45,6 @@ glightbox: false
 - :simple-openwrt: __OpenWrt__ 路由
 - :simple-openvpn: __OpenVPN__ 隧道
 - :simple-nginx: __Nginx__ 代理
-
-</div>
-
-<h3 align="center">开发 | 设计 | 办公</h3>
-
-<div class="grid cards" markdown>
-
 - :material-microsoft-office: __Office__ 全能天赋型选手
 - :material-language-c: __C__ 开发
 - :material-language-python: __Python__ 不好说
