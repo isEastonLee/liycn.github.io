@@ -3,6 +3,8 @@
 
 项目开设于 2025 年 2 月 21 日
 
+## 部署相关问题
+
 要让 GitHub 部署这个网页要再 `setting` （设置）中的 `page` （页面）中将 `Build and deployment` (构建与部属) - `Source` （来源）改为 `Deploy from a branch` （从分支部署）
 
 `Branch` （分支）选择 `gh-page` - `/(root)` ，然后 `save` （保存）就好了
