@@ -4,7 +4,8 @@
   justify-content: center;
   text-align: center;
   margin: 0px;
-  text-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
+  margin-top: 100px;
+  text-shadow: 0 0 8px #00000066;
   user-select: none;
   /* min-width: 591px; */
 }
@@ -98,7 +99,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin: 10px 0 5px 0;
+  margin: 50px 0 5px 0;
 }
 
 /* 搜索引擎按钮 */
