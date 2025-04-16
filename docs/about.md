@@ -24,14 +24,16 @@ glightbox: false
 
 ## :icons8-link: 联系方式
 
-[ :simple-qq: __QQ__ ](https://qm.qq.com/q/L8Psq6fh){ .md-button .md-button--primary target="_blank" title="1317202104"}
-[ :material-microsoft-outlook: __Outlook__ ](mailto:liycq@outlook.com){ .md-button .md-button--primary target="_blank"  title="liycq@outlook.com"}
-[ :simple-gmail: __Gmail__ ](mailto:isleeyearn@gmail.com){ .md-button .md-button--primary target="_blank" title="isleeyearn@gmail.com"}
-[ :simple-telegram: __Telegram__ ](https://t.me/LeeYeaern){ .md-button .md-button--primary target="_blank"}
-[ :simple-github: __GitHub__ ](https://github.com/LeeYearn){ .md-button .md-button--primary target="_blank" title="liycn"}
-[ :simple-tiktok: __抖音__ ](https://www.douyin.com/user/MS4wLjABAAAAOvMRoJmc5JWGlQQh0Db9Iml88UFzcLf0wmfEIi4GWEvBIUPGaDtuopwiqyE4C3an?from_tab_name=main&vid=7358879260318207242){ .md-button .md-button--primary target="_blank" title="LeeYearn"}
-[ :fontawesome-brands-steam-symbol: __Steam__ ](https://steamcommunity.com/profiles/76561199004333008/){ .md-button .md-button--primary target="_blank" title="好友码1044067280"}
+<div class="grid cards" markdown>
 
+- :simple-qq: [ __QQ__ - 1317202104](https://qm.qq.com/q/L8Psq6fh){ target="_blank" }
+- :material-microsoft-outlook: [ __Outlook__ - liycq@outlook.com](mailto:liycq@outlook.com){ target="_blank" }
+- :simple-gmail: [ __Gmail__ - isleeyearn@gmail.com](mailto:isleeyearn@gmail.com){ target="_blank" }
+- :simple-telegram: [ __Telegram__ ](https://t.me/LeeYeaern){ target="_blank}
+- :simple-github: [ __GitHub__ - liycn](https://github.com/LeeYearn){ target="_blank" }
+- :simple-tiktok: [ __抖音__ ](https://www.douyin.com/user/MS4wLjABAAAAOvMRoJmc5JWGlQQh0Db9Iml88UFzcLf0wmfEIi4GWEvBIUPGaDtuopwiqyE4C3an?from_tab_name=main&vid=7358879260318207242){ target="_blank" }
+- :fontawesome-brands-steam-symbol: [ __Steam__ - 好友码1044067280](https://steamcommunity.com/profiles/76561199004333008/){ target="_blank" }
+</div>
 
 ## :icons8-skill: 技术拼图
 
@@ -107,18 +109,28 @@ glightbox: false
 
 <div class="grid cards" markdown>
 
-- [__骄骄__ <br> 骄骄是骄傲的骄](https://dxlcq.cn){target="_blank"}
-    
-- [__Sevenalist__ <br> Never Stop Thinking.](https://dczcq.cn){target="_blank"}
+- [ :octicons-arrow-right-24: __骄骄__ ](https://dxlcq.cn){target="_blank"}
+  
+    ---
 
-- [__W W__ <br> 据本人所说是帅哥](https://www.wanjc.top/){target="_blank"}
-
-- [__Eason Chan__ <br> 👀（单方面友情）](https://www.easonchan.net/hk/?lang=zh-hans){target="_blank"}
+    骄骄是骄傲的骄
     
+- [ :octicons-arrow-right-24: __Sevenalist__ ](https://dczcq.cn){target="_blank"}
+  
+    ---
+
+    Never Stop Thinking.
+    
+- [ :octicons-arrow-right-24: __W W__ ](https://wanjc.top){target="_blank"}
+  
+    ---
+
+    据本人所说是帅哥
+        
 </div>
 
 ## :icons8-end: 写在最后
 
-网站由[ :simple-materialformkdocs: **Material for MkDocs**](https://squidfunk.github.io/mkdocs-material/){target="_blank"} 项目作为基础搭建而成。期间图标不仅有项目本身的，还用了 [:simple-icons8: **icons8**](https://igoutu.cn/){target="_blank"} 的图标。由于囊中羞涩只能通过 [:material-web: **WebUtility**](https://webutility.io/){target="_blank"} 项目将下载的资源转成 SVG 图标。感谢以上提到的项目。诚挚感谢~
+网站由[ :simple-materialformkdocs: **Material for MkDocs**](https://squidfunk.github.io/mkdocs-material/){target="_blank"} 项目作为基础搭建而成。期间图标不仅有项目本身的，还用了 [:simple-icons8: **icons8**](https://igoutu.cn/){target="_blank"} 的图标。由于囊中羞涩只能通过 [:material-web: **WebUtility**](https://webutility.io/){target="_blank"} 项目将下载的资源转成 SVG 图标。感谢以上提到的项目，诚挚感谢~
 
 <script type="text/javascript" src="./javascripts/about.js"></script>
