@@ -45,6 +45,7 @@ glightbox: false
 - :icons8-grok-blank:{.only-light} [__Grok__ ](https://grok.com/){target="_blank"}
 - :other-gemini: [__Gemini__](https://gemini.google.com/app){target="_blank"}
 - :simple-claude: [__Claude__ ](https://claude.ai/){target="_blank"}
+- :other-metaso: [__Metaso__ ](https://metaso.cn/){target="_blank"}
 - :other-txyz: [__TXYZ__](https://app.txyz.ai/){target="_blank"}
 <!-- https://app.txyz.ai/ -->
 
