@@ -21,6 +21,35 @@ glightbox: false
 
 ---
 
+## :icons8-friend: 友情链接
+
+<div class="grid cards" markdown>
+
+- [ :octicons-arrow-right-24: __骄骄__ ](https://dxlcq.cn){target="_blank"}
+  
+    ---
+
+    骄骄是骄傲的骄
+    
+- [ :octicons-arrow-right-24: __Sevenalist__ ](https://dczcq.cn){target="_blank"}
+  
+    ---
+
+    Never Stop Thinking.
+    
+- [ :octicons-arrow-right-24: __W W__ ](https://wanjc.top){target="_blank"}
+  
+    ---
+
+    据本人所说是帅哥
+        
+</div>
+
+---
+
+## :icons8-openSource: 屌爆的开源项目
+
+
 <div class="grid cards" markdown>
 
 - [__Bluetooth-RF-Fingerprint__](https://github.com/liycn/Bluetooth-RF-Fingerprint){target="_blank"}

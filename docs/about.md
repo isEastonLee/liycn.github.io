@@ -111,31 +111,6 @@ glightbox: false
         
 </div>
 
-
-## :icons8-friend: 友情链接
-
-<div class="grid cards" markdown>
-
-- [ :octicons-arrow-right-24: __骄骄__ ](https://dxlcq.cn){target="_blank"}
-  
-    ---
-
-    骄骄是骄傲的骄
-    
-- [ :octicons-arrow-right-24: __Sevenalist__ ](https://dczcq.cn){target="_blank"}
-  
-    ---
-
-    Never Stop Thinking.
-    
-- [ :octicons-arrow-right-24: __W W__ ](https://wanjc.top){target="_blank"}
-  
-    ---
-
-    据本人所说是帅哥
-        
-</div>
-
 ## :icons8-end: 写在最后
 
 网站由[ :simple-materialformkdocs: **Material for MkDocs**](https://squidfunk.github.io/mkdocs-material/){target="_blank"} 项目作为基础搭建而成。期间图标不仅有项目本身的，还用了 [:simple-icons8: **icons8**](https://igoutu.cn/){target="_blank"} 的图标。由于囊中羞涩只能通过 [:material-web: **WebUtility**](https://webutility.io/){target="_blank"} 项目将下载的资源转成 SVG 图标。感谢以上提到的项目，诚挚感谢~
