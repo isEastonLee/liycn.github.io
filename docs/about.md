@@ -43,7 +43,7 @@ glightbox: false
 <div class="grid cards" markdown>
 
 - :simple-stmicroelectronics: __STM32__ 嵌入式
-- :material-router-network-wireless: __低频蓝牙__ 射频指纹
+- :material-router-network-wireless: __低功耗蓝牙__ 射频指纹
 - :simple-linux: __Linux__ 服务器
 - :simple-openwrt: __OpenWrt__ 路由
 - :simple-openvpn: __OpenVPN__ 隧道
@@ -68,7 +68,7 @@ glightbox: false
 
     **2024年9月 ~ 2025年7月**
     
-    **相关：** [毕设](https://github.com/LeeYearn/RF-Fingerprint-Extraction-for-Bluetooth){target="_blank"} [重大](https://cqu.edu.cn/){target="_blank"} [卓工](https://eie.cqu.edu.cn/){target="_blank"} [毕设系统](http://180.85.204.43:50031/){target="_blank"} [教务](https://my.cqu.edu.cn/workspace/home){target="_blank"} [服务](https://i.cqu.edu.cn/new/index.html){target="_blank"} [邮箱](https://mail.cqu.edu.cn/coremail/){target="_blank"}
+    **相关：** [重大](https://cqu.edu.cn/){target="_blank"} [卓工](https://eie.cqu.edu.cn/){target="_blank"} [毕设](https://github.com/LeeYearn/RF-Fingerprint-Extraction-for-Bluetooth){target="_blank"} [毕设系统](http://180.85.204.43:50031/){target="_blank"} [教务](https://my.cqu.edu.cn/workspace/home){target="_blank"} [邮箱](https://mail.cqu.edu.cn/coremail/){target="_blank"}
 
     
     

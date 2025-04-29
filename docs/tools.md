@@ -30,8 +30,9 @@ glightbox: false
 - :simple-openwrt: [__OpenWrt__](http://10.0.0.1){target="_blank"}
 - :material-speedometer: [__内网测速__](http://10.0.0.1:3300){target="_blank"}
 - :material-router-network-wireless: [__内网穿透__](http://10.0.0.1:16601){target="_blank"}
+- :octicons-ai-model-16: [__AIGC检测__](https://matrix.tencent.com/ai-detect/){target="_blank"}
 - :material-google-translate: [__谷歌翻译__](https://translate.google.com/?hl=zh-CN&sl=zh-CN&tl=en&op=translate){target="_blank"}
-<!--  -->
+- :fontawesome-brands-google-scholar: [__谷歌学术__](https://translate.google.com/?hl=zh-CN&sl=zh-CN&tl=en&op=translate){target="_blank"}
 </div>
 
 ---
