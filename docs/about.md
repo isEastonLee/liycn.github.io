@@ -34,8 +34,9 @@ glightbox: false
 - :simple-telegram: [ __Telegram__ : LeeYearn ](https://t.me/LeeYeaern){ target="_blank}
 - :simple-tiktok: [ __抖音__ : 不叫李宛 ](https://www.douyin.com/user/MS4wLjABAAAAOvMRoJmc5JWGlQQh0Db9Iml88UFzcLf0wmfEIi4GWEvBIUPGaDtuopwiqyE4C3an?from_tab_name=main&vid=7358879260318207242){ target="_blank" }
 - :fontawesome-brands-bilibili: [ __Bilibili__ : 不叫李宛](https://space.bilibili.com/612629211){ target="_blank" }
+- :simple-youtube: [ __YouTube__ : LeeYearn](https://www.youtube.com/@leeyearn){ target="_blank" }
 - :simple-spotify: [ __Spotify__ : playlist](https://open.spotify.com/playlist/5ikT3SxpyAvBKVcxmKrcsq?si=ATE6gZk4QD2vbz7m0hXmBQ){ target="_blank" }
-<!-- - :fontawesome-brands-steam-symbol: [ __Steam__ : 好友码1044067280](https://steamcommunity.com/profiles/76561199004333008/){ target="_blank" } -->
+- :fontawesome-brands-steam-symbol: [ __Steam__ : 好友码1044067280](https://steamcommunity.com/profiles/76561199004333008/){ target="_blank" }
 </div>
 
 ## :icons8-skill: 技术拼图
