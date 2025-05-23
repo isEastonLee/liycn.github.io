@@ -37,6 +37,7 @@ glightbox: false
 - :simple-youtube: [ __YouTube__ : LeeYearn](https://www.youtube.com/@leeyearn){ target="_blank" }
 - :simple-spotify: [ __Spotify__ : playlist](https://open.spotify.com/playlist/5ikT3SxpyAvBKVcxmKrcsq?si=ATE6gZk4QD2vbz7m0hXmBQ){ target="_blank" }
 - :fontawesome-brands-steam-symbol: [ __Steam__ : 好友码1044067280](https://steamcommunity.com/profiles/76561199004333008/){ target="_blank" }
+
 </div>
 
 ## :icons8-skill: 技术拼图

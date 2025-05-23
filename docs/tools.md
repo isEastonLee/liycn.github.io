@@ -123,6 +123,14 @@ glightbox: false
 
     [:octicons-arrow-right-24: 去看看](https://www.ghxi.com/){target="_blank"}
 
+-   :other-央视频: __央视频地方台__
+
+    ---
+
+    阿巴阿巴
+
+    [:octicons-arrow-right-24: 去看看](https://www.yangshipin.cn/tv/home){target="_blank"}
+
 -   :icons8-极简插件: __极简插件__
 
     ---
