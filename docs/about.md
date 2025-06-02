@@ -101,7 +101,7 @@ glightbox: false
 
 </div>
 
-## :icons8-trophies: 获奖经历
+<!-- ## :icons8-trophies: 获奖经历
 
 <div class="grid cards" markdown>
 
@@ -111,7 +111,7 @@ glightbox: false
 
 - 🥉 省市级
         
-</div>
+</div> -->
 
 ## :icons8-end: 写在最后
 
