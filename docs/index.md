@@ -16,6 +16,30 @@ glightbox: false  # 禁止图片放大  或者在标签中使用 class="on-glb" 
   .md-content__inner{
     padding-top: 0em;
   }
+
+  /* 默认不修改背景 */
+  body {
+    background-image: url("../images/home/DSC_2943.JPG");
+    background-size: cover;               /* 全屏铺满，保持比例，裁剪多余部分 */
+    background-repeat: no-repeat;
+    background-position: center center;   /* 水平 & 垂直方向都居中 */
+    background-attachment: fixed;         /* 背景固定（可选，可改为 scroll） */
+    background-color: #000;               /* 防止加载期间白屏 */
+  }
+
+  .md-header{
+    background: rgba(255, 255, 255, 0.1); /* 半透明白色背景 */
+    backdrop-filter: blur(5px);         /* 毛玻璃模糊效果 */
+    -webkit-backdrop-filter: blur(5px); /* Safari 兼容 */
+    color: #000;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); /* 轻微阴影增加立体感 */
+  }
+
+  .md-tabs,
+  .md-footer,
+  .md-footer-meta {
+    background-color: transparent;
+  }
 </style>
 <link rel="stylesheet" href="/stylesheets/index.css">
 
@@ -31,18 +55,21 @@ glightbox: false  # 禁止图片放大  或者在标签中使用 class="on-glb" 
   </div>
 </div>
 
+<!-- <img src="../images/home/DSC_2943.JPG"> -->
+
 <!-- 搜索引擎按钮 -->
-<div class="search-container" onselectstart="return false">
+<!-- <div class="search-container" onselectstart="return false">
   <ul class="search-engine-buttons" style="margin-left: 0;display: flex; list-style: none;margin:50px  0 0 0;">
     <li class ="search-englne-text" data-engine="google" style="margin-left: 0px">Google</li>
     <li class ="search-englne-text" data-engine="bing" style="margin-left: 0px">Bing</li>
     <li class ="search-englne-text" data-engine="wikipedia" style="margin-left: 0px">Wikipedia</li>
   </ul>
-</div>
+</div> -->
 
 <!-- 搜索输入框 -->
-<div class="input-container">
+<!-- <div class="input-container">
   <input type="text" id="search-input" placeholder="选择引擎 回车搜索" class="gradient-input" />
-</div>
+</div> -->
 
 <script type="text/javascript" src="./javascripts/index.js"></script>
+

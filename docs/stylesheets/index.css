@@ -1,11 +1,12 @@
 /* 时间 */
 .time {
+  color:#fff;
   font-weight: bold;
   justify-content: center;
   text-align: center;
   margin: 0px;
   margin-top: 100px;
-  text-shadow: 0 0 8px #00000066;
+  text-shadow: 0 0 8px #fff;
   user-select: none;
   /* min-width: 591px; */
 }
