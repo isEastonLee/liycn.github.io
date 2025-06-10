@@ -1,7 +1,7 @@
 site_name: Lee
 dev_addr: 0.0.0.0:8000
 docs_dir: docs
-copyright: #Copyright © 2025 All Rights Reserved         # 版权声明
+copyright: Copyright © 2025 All Rights Reserved # - <a href="#__consent">Change cookie settings</a>         # 版权声明
 
 repo_url: https://github.com/liycn                      # git仓库地址
 repo_name: liycn.github.io                              # 仓库名称
@@ -15,26 +15,26 @@ theme:
     logo: other/spiderman                     # Logo 图标
     repo: fontawesome/brands/github           # 仓库图标
   
-  palette:
-    - media: "(prefers-color-scheme)"         # 自动模式
-      toggle:
-        icon: material/link
-        name: 自动亮/暗
+  # palette:
+    # - media: "(prefers-color-scheme)"         # 自动模式
+    #   toggle:
+    #     icon: material/link
+    #     name: 自动亮/暗
     
-    - media: "(prefers-color-scheme: light)"  # 日间模式
-      scheme: default                         # default / slate
-      primary: indigo                         # 导航栏背景色
-      toggle:
-        icon: material/toggle-switch
-        name: 日间模式
+    # - media: "(prefers-color-scheme: light)"  # 日间模式
+    #   scheme: default                         # default / slate
+    #   primary: indigo                         # 导航栏背景色
+    #   toggle:
+    #     icon: material/toggle-switch
+    #     name: 日间模式
 
     # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"   # 夜间模式
-      scheme: slate
-      primary: black                          # 导航栏背景色
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: 夜间模式
+    # - media: "(prefers-color-scheme: dark)"   # 夜间模式
+      # scheme: slate
+      # primary: black                          # 导航栏背景色
+      # toggle:
+      #   icon: material/toggle-switch-off-outline
+      #   name: 夜间模式
 
   features:
     - navigation.top                          # 返回顶部的按钮
@@ -59,6 +59,29 @@ theme:
 
 extra:
   generator: false                            # 关闭 MKDOCS 来源页脚
+  social:
+    - icon: material/folder
+      link: ../public/
+      name: Public
+    - icon: material/folder-lock
+      link: ../private/
+      name: Private
+    - icon: simple/openwrt
+      link: http://10.0.0.1
+      name: Openwrt
+    - icon: material/speedometer
+      link: http://10.0.0.1:3300
+      name: Speedtest
+    - icon: material/router-network-wireless
+      link: http://10.0.0.1:16601
+      name: Lucky
+    - icon: material/google-translate
+      link: https://translate.google.com/?hl=zh-CN&sl=zh-CN&tl=en&op=translate
+      name: Translate
+  # consent:
+  #   title: 🍪 Cookie 偏好许可
+  #   description: >- 
+  #     我会使用 Cookie 来识别您的重复访问和偏好，以及衡量文档的有效性以及您是否找到了正在搜索的内容。获得您的同意，您将帮助我们改进我们的文档。
 
 #-----------------------------
 # 引入插件
@@ -151,7 +174,7 @@ nav:
   - Clash Verge Rev: recom/ClashVergeRev.md
   - Clash Meta: recom/ClashMeta.md
   - gh-proxy: recom/gh-proxy.md
-- Movie: movie.md
+# - Movie: movie.md
 - Blog:
   - blog/index.md
   - Important:

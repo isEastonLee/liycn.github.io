@@ -27,7 +27,9 @@ glightbox: false  # 禁止图片放大  或者在标签中使用 class="on-glb" 
     background-color: #000;               /* 防止加载期间白屏 */
   }
 
-  .md-header{
+  .md-header,
+  .md-footer,
+  .md-footer-meta {
     background: rgba(255, 255, 255, 0.1); /* 半透明白色背景 */
     backdrop-filter: blur(5px);         /* 毛玻璃模糊效果 */
     -webkit-backdrop-filter: blur(5px); /* Safari 兼容 */
@@ -35,10 +37,27 @@ glightbox: false  # 禁止图片放大  或者在标签中使用 class="on-glb" 
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); /* 轻微阴影增加立体感 */
   }
 
-  .md-tabs,
-  .md-footer,
-  .md-footer-meta {
+  .md-tabs{
     background-color: transparent;
+  }
+
+  .md-copyright__highlight {
+    color: #000;
+  }
+
+  .md-social__link svg {
+    fill: rgb(0 0 0);
+  }
+
+  .md-footer, .md-footer-meta { 
+  display: block; /* 或者 inline-block / flex，根据你的布局情况 */
+  }
+
+  /* 当视口宽度小于1220px时隐藏 */
+  @media (max-width: 1219px) {
+    .md-footer, .md-footer-meta { 
+      display: none;
+    }
   }
 </style>
 <link rel="stylesheet" href="/stylesheets/index.css">

@@ -14,7 +14,7 @@ glightbox: false
   }
 </style>
 
-<h2 align="center" style="margin: 0 0 50px 0;">
+<h2 align="center" style="font-weight: bolder; margin-top: 0;line-height:1;">
   <b>Technology is no longer inaccessible, it serves the people.</b>
   <br>- 科技不再是高高在上，而是服务于人民 -
 </h2>

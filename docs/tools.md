@@ -14,31 +14,14 @@ glightbox: false
   }
 </style>
 
-<h2 align="center" style="margin: 0 0 50px 0;">
+<h2 align="center" style="font-weight: bolder; margin-top: 0;line-height:1;">
   <b>Always believe that something wonderful is about to happen.</b>
   <br>- 永远相信美好的事情即将发生 -
 </h2>
 
 ---
 
-<h2 align="center" style="font-weight: bolder;">- 问君何能尔，心远地自偏 -</h2>
-
-<div class="grid cards" markdown>
-
-- :material-folder: [__正大光明__](../public/){target="_blank"}
-- :material-folder-lock: [__深藏不露__](../private/){target="_blank"}
-- :simple-openwrt: [__OpenWrt__](http://10.0.0.1){target="_blank"}
-- :material-speedometer: [__内网测速__](http://10.0.0.1:3300){target="_blank"}
-- :material-router-network-wireless: [__内网穿透__](http://10.0.0.1:16601){target="_blank"}
-- :octicons-ai-model-16: [__AIGC检测__](https://matrix.tencent.com/ai-detect/){target="_blank"}
-- :other-speedai: [__SpeedAI降AIGC__](https://kuaipaper.com/home){target="_blank"}
-- :material-google-translate: [__谷歌翻译__](https://translate.google.com/?hl=zh-CN&sl=zh-CN&tl=en&op=translate){target="_blank"}
-- :fontawesome-brands-google-scholar: [__谷歌学术__](https://scholar.google.com/){target="_blank"}
-</div>
-
----
-
-<h2 align="center" style="font-weight: bolder; line-height:1;">- 孤云将野鹤，岂向人间住 -</h2>
+## AI Collection
 
 <div class="grid cards" markdown>
 
@@ -48,14 +31,16 @@ glightbox: false
 - :other-gemini: [__Gemini__](https://gemini.google.com/app){target="_blank"}
 - :simple-claude: [__Claude__ ](https://claude.ai/){target="_blank"}
 - :other-metaso: [__Metaso__ ](https://metaso.cn/){target="_blank"}
-- :other-txyz: [__TXYZ__](https://app.txyz.ai/){target="_blank"}
-<!-- https://app.txyz.ai/ -->
+<!-- - :other-txyz: [__TXYZ__](https://app.txyz.ai/){target="_blank"} -->
+<!-- - :octicons-ai-model-16: [__AIGC检测__](https://matrix.tencent.com/ai-detect/){target="_blank"} -->
+<!-- - :other-speedai: [__SpeedAI降AIGC__](https://kuaipaper.com/home){target="_blank"} -->
+<!-- - :fontawesome-brands-google-scholar: [__谷歌学术__](https://scholar.google.com/){target="_blank"} -->
 
 </div>
 
 ---
 
-<h2 align="center" style="font-weight: bolder;">- 浮云一别后，流水十年间 -</h2>
+## NetWork Collection
 
 <div class="grid cards" markdown>
 
@@ -75,7 +60,7 @@ glightbox: false
 
 ---
 
-<h2 align="center" style="font-weight: bolder;">- 海内存知己，天涯若比邻 -</h2>
+## OS Collection
 
 <div class="grid cards" markdown>
 
@@ -94,7 +79,7 @@ glightbox: false
 
 ---
 
-<h2 align="center" style="font-weight: bolder;">- 春去花还在，人来鸟不惊 -</h2>
+## Website Collection
 
 <div class="grid cards" markdown>
 
@@ -123,13 +108,13 @@ glightbox: false
 
     [:octicons-arrow-right-24: 去看看](https://www.ghxi.com/){target="_blank"}
 
--   :other-央视频: __央视频地方台__
+<!-- -   :other-央视频: __央视频地方台__
 
     ---
 
     阿巴阿巴
 
-    [:octicons-arrow-right-24: 去看看](https://www.yangshipin.cn/tv/home){target="_blank"}
+    [:octicons-arrow-right-24: 去看看](https://www.yangshipin.cn/tv/home){target="_blank"} -->
 
 -   :icons8-极简插件: __极简插件__
 
@@ -186,7 +171,7 @@ glightbox: false
 
 ---
 
-<h2 align="center" style="font-weight: bolder;">- 生民百遗一，念之断人肠 -</h2>
+## Application Collection
 
 <div class="grid cards" markdown>
 

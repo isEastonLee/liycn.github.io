@@ -19,3 +19,17 @@
 .md-button{
   margin: 2px 0 2px 0;
 }
+
+@media screen and (min-width: 45em) {
+      .md-social {
+          padding: 0;
+      }
+  }
+
+.md-copyright{
+  padding: .2rem 0;
+}
+
+.md-footer-meta__inner{
+  padding: 0;
+}
