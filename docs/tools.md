@@ -124,13 +124,13 @@ glightbox: false
 
     [:octicons-arrow-right-24: 去看看](https://chrome.zzzmh.cn/){target="_blank"}
 
--   :icons8-厂长资源: __厂长资源__
+-   :icons8-厂长资源: __火车太堵__
 
     ---
 
     摸鱼看电影电视剧。有提供海量 1080P 经典影视免费观看！
 
-    [:octicons-arrow-right-24: 去看看](https://www.czzy.site/){target="_blank"}
+    [:octicons-arrow-right-24: 去看看](https://www.tdgo.shop/){target="_blank"}
 
 -   :icons8-赔钱机场: __赔钱机场__
 
