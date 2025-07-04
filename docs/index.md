@@ -64,6 +64,8 @@ glightbox: false  # 禁止图片放大  或者在标签中使用 class="on-glb" 
 
 <!--    时间    -->
 <div class="time">
+<!-- <h2>你现在有多悲伤，就证明你曾经拥有多少爱</h2> -->
+
   <div class="solar-time" id="solarTime"></div>
   <div class="clock-time">
     <span id="hourTime" class="clock-font">00</span>
@@ -74,7 +76,7 @@ glightbox: false  # 禁止图片放大  或者在标签中使用 class="on-glb" 
   </div>
 </div>
 
-<!-- <img src="../images/home/DSC_2943.JPG"> -->
+
 
 <!-- 搜索引擎按钮 -->
 <!-- <div class="search-container" onselectstart="return false">
