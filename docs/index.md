@@ -33,11 +33,11 @@ glightbox: false  # 禁止图片放大  或者在标签中使用 class="on-glb" 
     background: rgba(255, 255, 255, 0.1); /* 半透明白色背景 */
     backdrop-filter: blur(5px);         /* 毛玻璃模糊效果 */
     -webkit-backdrop-filter: blur(5px); /* Safari 兼容 */
-    color: #000;
+    color: #fff;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); /* 轻微阴影增加立体感 */
   }
 
-  .md-tabs{
+  .md-tabs , [data-md-color-primary=black] .md-header , [data-md-color-primary=black] .md-tabs{
     background-color: transparent;
   }
 

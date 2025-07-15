@@ -15,26 +15,26 @@ theme:
     logo: other/spiderman                     # Logo 图标
     repo: fontawesome/brands/github           # 仓库图标
   
-  # palette:
-    # - media: "(prefers-color-scheme)"         # 自动模式
-    #   toggle:
-    #     icon: material/link
-    #     name: 自动亮/暗
+  palette:
+    - media: "(prefers-color-scheme)"         # 自动模式
+      toggle:
+        icon: material/link
+        name: 自动亮/暗
     
-    # - media: "(prefers-color-scheme: light)"  # 日间模式
-    #   scheme: default                         # default / slate
-    #   primary: indigo                         # 导航栏背景色
-    #   toggle:
-    #     icon: material/toggle-switch
-    #     name: 日间模式
+    - media: "(prefers-color-scheme: light)"  # 日间模式
+      scheme: default                         # default / slate
+      primary: indigo                         # 导航栏背景色
+      toggle:
+        icon: material/toggle-switch
+        name: 日间模式
 
     # Palette toggle for dark mode
-    # - media: "(prefers-color-scheme: dark)"   # 夜间模式
-      # scheme: slate
-      # primary: black                          # 导航栏背景色
-      # toggle:
-      #   icon: material/toggle-switch-off-outline
-      #   name: 夜间模式
+    - media: "(prefers-color-scheme: dark)"   # 夜间模式
+      scheme: slate
+      primary: black                          # 导航栏背景色
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: 夜间模式
 
   features:
     - navigation.top                          # 返回顶部的按钮
