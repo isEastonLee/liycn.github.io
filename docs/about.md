@@ -22,7 +22,7 @@ glightbox: false
 
 <!-- <p align="center"></p> -->
 
-## :icons8-link: 联系方式
+## :icons8-link: Contact
 
 <div class="grid cards" markdown>
 
@@ -59,7 +59,7 @@ glightbox: false
 
 </div> -->
 
-## :icons8-education: 教育经历
+## :icons8-education: Education
 
 <div class="grid cards" markdown>
 
@@ -70,7 +70,8 @@ glightbox: false
 
     **2024年9月 ~ 2025年7月**
     
-    **相关：** [重大](https://cqu.edu.cn/){target="_blank"} [卓工](https://eie.cqu.edu.cn/){target="_blank"} [毕设](https://github.com/LeeYearn/RF-Fingerprint-Extraction-for-Bluetooth){target="_blank"} [毕设系统](http://180.85.204.43:50031/){target="_blank"} [教务](https://my.cqu.edu.cn/workspace/home){target="_blank"} [邮箱](https://mail.cqu.edu.cn/coremail/){target="_blank"}
+    **相关：** [学校官网](https://cqu.edu.cn/){target="_blank"}
+    [卓工官网](https://eie.cqu.edu.cn/){target="_blank"}
 
     
     
@@ -113,7 +114,7 @@ glightbox: false
         
 </div> -->
 
-## :icons8-end: 写在最后
+## :icons8-end: Last words
 
 网站由[ :simple-materialformkdocs: **Material for MkDocs**](https://squidfunk.github.io/mkdocs-material/){target="_blank"} 项目作为基础搭建而成。期间图标不仅有项目本身的，还用了 [:simple-icons8: **icons8**](https://igoutu.cn/){target="_blank"} 的图标。由于囊中羞涩只能通过 [:material-web: **WebUtility**](https://webutility.io/){target="_blank"} 项目将下载的资源转成 SVG 图标。感谢以上提到的项目，诚挚感谢~
 
