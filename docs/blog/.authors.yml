@@ -1,0 +1,13 @@
+authors:
+  lee:
+    name: lee
+    description: Creator
+    avatar: /images/avatar/spiderman.svg
+  jiao:
+    name: 骄骄
+    description: Provider
+    avatar: https://dxlcq.cn/assets/head.png
+  zhong:
+    name: Sevenalist
+    description: Developer
+    avatar: https://dczcq.cn/img/logo_w.png
