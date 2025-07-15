@@ -3,6 +3,8 @@ date:
    created: 2025-01-20
    updated: 2025-02-22
 readtime: 180
+authors:
+  - lee
 ---
 
 **使用 OpenWrt 配置 IPv6 + DDNS + OpenVPN 实现远程访问及异地组网**

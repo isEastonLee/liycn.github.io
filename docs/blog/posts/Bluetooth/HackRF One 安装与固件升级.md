@@ -2,6 +2,8 @@
 date:
    created: 2025-03-17
 readtime: 30
+authors:
+  - lee
 ---
 
 在网上能找到许多关于 `HackRF One` 的安装教程，通常可以归为两种方式：  

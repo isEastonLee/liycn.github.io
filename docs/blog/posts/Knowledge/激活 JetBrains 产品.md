@@ -3,6 +3,8 @@ date:
    created: 2024-11-21
    updated: 2025-01-20
 readtime: 15
+authors:
+  - lee
 ---
 
 ## 1. 找到激活导航地址

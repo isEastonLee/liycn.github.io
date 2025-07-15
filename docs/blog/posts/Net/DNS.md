@@ -3,6 +3,8 @@ date:
    created: 2025-01-22
    updated: 2025-02-26
 readtime: 20
+authors:
+  - lee
 ---
 
 DNS（Domain Name System，域名系统）是一种将域名转换为 IP 地址的系统。

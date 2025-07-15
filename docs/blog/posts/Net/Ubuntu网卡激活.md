@@ -2,6 +2,8 @@
 date:
    created: 2025-03-30
 readtime: 10
+authors:
+  - lee
 ---
 
 ## 首先检查网络接口状态
