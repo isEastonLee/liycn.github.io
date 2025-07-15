@@ -27,7 +27,7 @@ glightbox: false
 
 <div class="grid cards" markdown>
 
--   __AI Collection__
+-   AI Collection
 
     ---
 
@@ -43,7 +43,7 @@ glightbox: false
 
     [:other-metaso: __Metaso__ ](https://metaso.cn/){target="_blank"}
 
--   __NetWork Collection__
+-   NetWork Collection
 
     ---
 
@@ -59,7 +59,7 @@ glightbox: false
 
     [:other-huaweiCloud: __Huawei Cloud__](https://console.huaweicloud.com/console/){target="_blank"}
 
--   __OS Collection__
+-   OS Collection
 
     ---
 
@@ -74,6 +74,7 @@ glightbox: false
     [:icons8-vmware: __VMware__](https://softwareupdate.vmware.com/cds/vmw-desktop/ws/){target="_blank"}
     
 </div>
+
 
 
 <!-- ## AI Collection
