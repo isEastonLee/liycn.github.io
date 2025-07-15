@@ -28,13 +28,20 @@ glightbox: false  # 禁止图片放大  或者在标签中使用 class="on-glb" 
   }
 
   .md-header,
-  .md-footer,
-  .md-footer-meta {
-    background: rgba(255, 255, 255, 0.1); /* 半透明白色背景 */
-    backdrop-filter: blur(5px);         /* 毛玻璃模糊效果 */
-    -webkit-backdrop-filter: blur(5px); /* Safari 兼容 */
+  .md-footer {
+    background: rgba(255, 255, 255, 0);         /* 半透明白色背景 */
+    backdrop-filter: blur(1px);                   /* 毛玻璃模糊效果 */
+    -webkit-backdrop-filter: blur(1px);           /* Safari 兼容 */
     color: #fff;
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); /* 轻微阴影增加立体感 */
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);  /*轻微阴影增加立体感 */
+  }
+
+  .md-footer-meta {
+    background: rgba(255, 255, 255, 0.5);         /* 半透明白色背景 */
+    backdrop-filter: blur(3px);                   /* 毛玻璃模糊效果 */
+    -webkit-backdrop-filter: blur(3px);           /* Safari 兼容 */
+    /* color: #fff; */
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);  /*轻微阴影增加立体感 */
   }
 
   .md-tabs , [data-md-color-primary=black] .md-header , [data-md-color-primary=black] .md-tabs{
@@ -79,18 +86,18 @@ glightbox: false  # 禁止图片放大  或者在标签中使用 class="on-glb" 
 
 
 <!-- 搜索引擎按钮 -->
-<!-- <div class="search-container" onselectstart="return false">
-  <ul class="search-engine-buttons" style="margin-left: 0;display: flex; list-style: none;margin:50px  0 0 0;">
+<div class="search-container" onselectstart="return false">
+  <ul class="search-engine-buttons" style="margin-left: 0;display: flex; list-style: none;margin:20px  0 0 0;">
     <li class ="search-englne-text" data-engine="google" style="margin-left: 0px">Google</li>
     <li class ="search-englne-text" data-engine="bing" style="margin-left: 0px">Bing</li>
     <li class ="search-englne-text" data-engine="wikipedia" style="margin-left: 0px">Wikipedia</li>
   </ul>
-</div> -->
+</div>
 
 <!-- 搜索输入框 -->
-<!-- <div class="input-container">
+<div class="input-container">
   <input type="text" id="search-input" placeholder="选择引擎 回车搜索" class="gradient-input" />
-</div> -->
+</div>
 
 <script type="text/javascript" src="./javascripts/index.js"></script>
 
