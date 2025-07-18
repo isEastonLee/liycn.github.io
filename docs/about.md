@@ -27,14 +27,15 @@ glightbox: false
 <div class="grid cards" markdown>
 
 - :simple-qq: [ __QQ__ : 1317202104](https://qm.qq.com/q/L8Psq6fh){ target="_blank" }
-- :simple-wechat: [ __WeChat__ : sudo-apt](./images/about/微信二维码.png){ target="_blank" }
-- :simple-github: [ __GitHub__ : liycn](https://github.com/liycn){ target="_blank" }
 - :material-microsoft-outlook: [ __Outlook__ : liycq@outlook.com](mailto:liycq@outlook.com){ target="_blank" }
 - :simple-gmail: [ __Gmail__ : isleeyearn@gmail.com](mailto:isleeyearn@gmail.com){ target="_blank" }
-- :simple-telegram: [ __Telegram__ : LeeYearn ](https://t.me/LeeYeaern){ target="_blank}
+<!-- - :simple-wechat: [ __WeChat__ : sudo-apt](./images/about/微信二维码.png){ target="_blank" } -->
+- :simple-github: [ __GitHub__ : liycn](https://github.com/liycn){ target="_blank" }
 - :simple-tiktok: [ __抖音__ : 不叫李宛 ](https://www.douyin.com/user/MS4wLjABAAAAOvMRoJmc5JWGlQQh0Db9Iml88UFzcLf0wmfEIi4GWEvBIUPGaDtuopwiqyE4C3an?from_tab_name=main&vid=7358879260318207242){ target="_blank" }
 - :fontawesome-brands-bilibili: [ __Bilibili__ : 不叫李宛](https://space.bilibili.com/612629211){ target="_blank" }
+- :simple-telegram: [ __Telegram__ : LeeYearn ](https://t.me/LeeYeaern){ target="_blank}
 - :simple-youtube: [ __YouTube__ : LeeYearn](https://www.youtube.com/@leeyearn){ target="_blank" }
+- :simple-instagram: [ __Instagram__ : liycq](https://www.instagram.com/liycq/){ target="_blank" }
 <!-- - :simple-spotify: [ __Spotify__ : playlist](https://open.spotify.com/playlist/5ikT3SxpyAvBKVcxmKrcsq?si=ATE6gZk4QD2vbz7m0hXmBQ){ target="_blank" }
 - :fontawesome-brands-steam-symbol: [ __Steam__ : 好友码1044067280](https://steamcommunity.com/profiles/76561199004333008/){ target="_blank" } -->
 
@@ -75,7 +76,7 @@ glightbox: false
 
     
     
-    **😂全日制交流** | **智能网联汽车**
+    **全日制交流** | **智能网联汽车**
 
 
 - ![CQUE](images/about/education/CQUE-light.png#only-light)
