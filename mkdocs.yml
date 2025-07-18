@@ -3,8 +3,8 @@ dev_addr: 0.0.0.0:8000
 docs_dir: docs
 copyright: Copyright © 2025 All Rights Reserved # - <a href="#__consent">Change cookie settings</a>         # 版权声明
 
-repo_url: https://github.com/liycn                      # git仓库地址
-repo_name: liycn.github.io                              # 仓库名称
+repo_url: https://github.com/iseastonlee                # git仓库地址
+repo_name: isEastonLee                                  # 仓库名称
 
 theme:
   name: material
