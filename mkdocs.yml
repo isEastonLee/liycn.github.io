@@ -1,16 +1,16 @@
-site_name: Lee
+site_name: Easton
 dev_addr: 0.0.0.0:8000
 docs_dir: docs
 copyright: Copyright © 2025 All Rights Reserved # - <a href="#__consent">Change cookie settings</a>         # 版权声明
 
-repo_url: https://github.com/iseastonlee                # git仓库地址
-repo_name: isEastonLee                                  # 仓库名称
+repo_url: https://github.com/iseastonlee      # git仓库地址
+repo_name: Easton                             # 仓库名称
 
 theme:
   name: material
   language: zh
   custom_dir: overrides
-  favicon: images/avatar/spider-man.svg                # 网站图标
+  favicon: images/avatar/spider-man.svg       # 网站图标
 
   icon:
     logo: other/spiderman                     # Logo 图标
@@ -44,7 +44,7 @@ theme:
     - navigation.instant                      # 即时加载
     - navigation.instant.prefetch             # 即时预取
     - navigation.instant.progress             # 进度指标
-    - navigation.tabs.sticky                  # 导航栏始终显示
+    # - navigation.tabs.sticky                  # 导航栏始终显示
     - navigation.sections                     # 不折叠导航栏
     - navigation.indexes                      # 排除 Blog 标题 在页面导航栏重复问题
     # - navigation.path                         # 显示当前路径
@@ -88,11 +88,6 @@ extra:
 # 引入插件
 #-----------------------------
 plugins:
-  # - social:                                   # 社交卡
-  #     cards_layout_options:
-  #       background_image: layouts/background.png  # 背景图像
-  #       background_color: "#ff1493"           # 背景颜色
-  #       logo: docs/assets/images/ourlogo.png  # 站点的徽标
   - search                                    # 搜索功能
   - blog:
       archive_date_format: yyyy               # 归档时间格式
@@ -181,3 +176,4 @@ nav:
   - Important:
     - 妙妙小命令: blog/posts/OS/妙妙小命令.md
 - About: about.md
+# - Test: test.md
