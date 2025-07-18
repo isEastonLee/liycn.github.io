@@ -138,12 +138,12 @@
 }
 
 .search-engine-buttons li:hover span {
-  color: #4051b5;
-  text-shadow: 0 0 5px #142eae, 0 0 10px #142eae;
+  color: #fff;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff;
 }
 
 /* 选中效果 */
 .search-engine-buttons li.active span {
-  color: #4051b5;
-  text-shadow: 0 0 5px #142eae;
+  color: #fff;
+  text-shadow: 0 0 5px #fff;
 }

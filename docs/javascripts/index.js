@@ -81,14 +81,17 @@ searchInput.addEventListener("keypress", (event) => {
     if (query) {
       let searchUrl = "";
       switch (selectedEngine) {
-        case "google":
-          searchUrl = `https://www.google.com/search?q=${encodeURIComponent(query)}`;
-          break;
+        // case "google":
+        //   searchUrl = `https://www.google.com/search?q=${encodeURIComponent(query)}`;
+        //   break;
         case "bing":
           searchUrl = `https://www.bing.com/search?q=${encodeURIComponent(query)}`;
           break;
-        case "wikipedia":
-          searchUrl = `https://zh.wikipedia.org/wiki/${encodeURIComponent(query)}`;
+        case "CN2EN":
+          searchUrl = `https://translate.google.com/?hl=zh-CN&sl=zh-CN&tl=en&text=${encodeURIComponent(query)}`;
+          break;
+        case "EN2CN":
+          searchUrl = `https://translate.google.com/?hl=zh-CN&sl=en&tl=zh-CN&text=${encodeURIComponent(query)}`;
           break;
         default:
           searchUrl = `https://www.google.com/search?q=${encodeURIComponent(query)}`;
