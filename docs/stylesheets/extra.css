@@ -33,3 +33,10 @@
 .md-footer-meta__inner{
   padding: 0;
 }
+
+.lee-button{
+  padding: .125em 1em;
+  display: inline-block;
+  min-width: 180px; 
+  /* text-align: center; */
+}
