@@ -10,7 +10,10 @@ glightbox: false
 <style>
   .md-typeset h1,
   .md-content__button {
-    display: none;
+    font-size: 0px;
+    color: rgb(0,0,0,0);
+    line-height: 0;
+    margin: 0 0 0 0;
   }
 
   .md-typeset .md-button {

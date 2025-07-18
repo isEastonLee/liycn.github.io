@@ -11,9 +11,13 @@ glightbox: false  # 禁止图片放大  或者在标签中使用 class="on-glb" 
 <style>
   .md-typeset h1,
   .md-content__button {
-    display: none;
+    font-size: 0px;
+    color: rgb(0,0,0,0);
+    line-height: 0;
+    margin: 0 0 0 0;
   }
-  .md-content__inner{
+
+.md-content__inner{
     padding-top: 0em;
   }
 
