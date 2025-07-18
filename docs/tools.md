@@ -101,8 +101,8 @@ glightbox: false
 
     ---
 
-    [赔钱机场(代理)](https://xn--mes358aby2apfg.com/#/register?code=If4MXXad){target="_blank" .md-button}
-    [赔钱机场(直连)](https://xn--cp3a08l.com/#/register?code=7KiFX6Bk){target="_blank" .md-button}
+    [赔钱机场(代理)](https://xn--mes358aby2apfg.com/#/register?code=Hw7cqluV){target="_blank" .md-button}
+    [赔钱机场(直连)](https://xn--cp3a08l.com/#/register?code=Hw7cqluV){target="_blank" .md-button}
 
 -   :icons8-影视资源: __影视资源__
 
@@ -117,13 +117,18 @@ glightbox: false
     ---
 
     [果核剥壳](https://www.ghxi.com/){target="_blank" .md-button }
-    [Web Utility](https://webutility.io/){target="_blank" .md-button }
     [png2svg](https://webutility.io/image-to-svg-converter){target="_blank" .md-button }
     [代码高亮](https://highlightcode.com/){target="_blank" .md-button }
     [美国地址生成](https://usaddressgen.com/){target="_blank" .md-button }
-    [微软积分](https://rewards.bing.com/){target="_blank" .md-button }
 
--   __学术工具__
+-   :icons8-webutility: __Web Utility__
+
+    ---
+
+    [Web Utility](https://webutility.io/){target="_blank" .md-button }
+    [png2svg](https://webutility.io/image-to-svg-converter){target="_blank" .md-button }
+
+-   :icons8-学术工具: __学术工具__
 
     ---
 
@@ -132,6 +137,22 @@ glightbox: false
     [降AIGC](https://kuaipaper.com/home){target="_blank" .md-button }
     [TXYZ](https://app.txyz.ai/){target="_blank" .md-button }
     [Metaso](https://metaso.cn/){target="_blank" .md-button }
+
+-   :icons8-Microsoft: __Microsoft__
+
+    ---
+
+    [账号主页](https://account.microsoft.com/){target="_blank" .md-button }
+    [微软邮箱](https://outlook.live.com/mail){target="_blank" .md-button }
+    [Azure](https://portal.azure.com/#home){target="_blank" .md-button }
+    [积分兑换](https://rewards.bing.com/){target="_blank" .md-button }
+
+-   :icons8-Google: __Google__
+
+    ---
+
+    [账号主页](https://myaccount.google.com/){target="_blank" .md-button }
+    [谷歌邮箱](https://mail.google.com/mail){target="_blank" .md-button }
 
 </div>
 
@@ -163,7 +184,7 @@ glightbox: false
 
     绕过地区限制，无需使用实体 SIM 卡即可接收 180 多个国家的短信验证。
     
-    [:octicons-arrow-right-24: 去看看](https://sms-activate.guru/?ref=12351402){target="_blank"}
+    [:octicons-arrow-right-24: 去看看](https://sms-activate.io/cn){target="_blank"}
 
 -    :other-LocalSend: __Local Send__ 
 
