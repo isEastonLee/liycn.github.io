@@ -10,7 +10,7 @@ theme:
   name: material
   language: zh
   custom_dir: overrides
-  favicon: images/avatar/spiderman.svg                # 网站图标
+  favicon: images/avatar/spider-man.svg                # 网站图标
 
   icon:
     logo: other/spiderman                     # Logo 图标
