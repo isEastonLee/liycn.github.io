@@ -99,6 +99,7 @@ glightbox: false
     ---
 
     [BYRUTOR(毛子)](https://byrutgame.org/){target="_blank" .md-button}
+    [Minecraft 皮肤](https://littleskin.cn/auth/login){target="_blank" .md-button}
 
 -   :icons8-机场: __机场__
 
@@ -114,22 +115,26 @@ glightbox: false
     [厂长资源](https://www.czzy.site/){target="_blank" .md-button}
     [火车太堵](https://www.tdgo.shop/){target="_blank" .md-button}
     [国内地方台](https://www.yangshipin.cn/tv/home){target="_blank" .md-button}
+    [可可影视](https://www.keke1.app/){target="_blank" .md-button}
+    [人人影视](https://www.renren.pro/){target="_blank" .md-button}
 
 -   :icons8-综合科技站点: __综合科技站点__
 
     ---
 
     [果核剥壳](https://www.ghxi.com/){target="_blank" .md-button }
-    [png2svg](https://webutility.io/image-to-svg-converter){target="_blank" .md-button }
     [代码高亮](https://highlightcode.com/){target="_blank" .md-button }
     [美国地址生成](https://usaddressgen.com/){target="_blank" .md-button }
+    [电子印章](http://web.aa6666.com/){target="_blank" .md-button }
 
 -   :icons8-webutility: __Web Utility__
 
     ---
 
     [Web Utility](https://webutility.io/){target="_blank" .md-button }
+    [GetWebFacicon](https://webutility.io/favicon-extractor){target="_blank" .md-button }
     [png2svg](https://webutility.io/image-to-svg-converter){target="_blank" .md-button }
+    [键盘测试](https://webutility.io/keyboard-tester){target="_blank" .md-button}
 
 -   :icons8-学术工具: __学术工具__
 
