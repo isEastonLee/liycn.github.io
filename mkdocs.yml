@@ -27,7 +27,7 @@ theme:
     
     - media: "(prefers-color-scheme: light)"  # 日间模式
       scheme: default                         # default / slate
-      primary: indigo                         # 导航栏背景色
+      primary: white                          # 导航栏背景色
       toggle:
         icon: material/toggle-switch
         name: 日间模式
