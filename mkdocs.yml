@@ -132,7 +132,7 @@ markdown_extensions:
   - footnotes                                 # 脚注，用[^1]标记脚注，然后在文末写[^1]: 内容
   - md_in_html                                # md_in_html：在HTML块中允许使用markdown语法
   - toc:                                      # 自动生成目录
-      permalink: true                         # 在标题旁显示永久链接符号
+      # permalink: true                         # 在标题旁显示永久链接符号
 
   # PyMdown 扩展（需安装 pymdown-extensions）
   - pymdownx.arithmatex:                      # LaTeX 数学公式支持
