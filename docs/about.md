@@ -29,9 +29,10 @@ glightbox: false
 
 <div class="grid cards" markdown>
 
-- :simple-qq: [ __QQ__ : 1317202104](https://qm.qq.com/q/L8Psq6fh){ target="_blank" }
-- :material-microsoft-outlook: [ __Outlook__ : isEastonLee@outlook.com](mailto:isEastonLee@outlook.com){ target="_blank" }
-- :simple-gmail: [ __Gmail__ : isEastonLee@gmail.com](mailto:isEastonLee@gmail.com){ target="_blank" }
+
+- :simple-qq: [ __QQ__ : 1317262104](https://qm.qq.com/q/L8Psq6fh){ target="_blank" }:material-content-copy:{.copy-button data-clipboard-text="1317262104" title="复制"}
+- :material-microsoft-outlook: [__Outlook__ : isEastonLee](mailto:isEastonLee@outlook.com){ target="_blank" } :material-content-copy:{.copy-button data-clipboard-text="isEastonLee@outlook.com" title="复制"}
+- :simple-gmail:[ __Gmail__ : isEastonLee](mailto:isEastonLee@gmail.com){ target="_blank" } :material-content-copy:{.copy-button data-clipboard-text="isEastonLee@gmail.com" title="复制"}
 <!-- - :simple-wechat: [ __WeChat__ : sudo-apt](./images/about/微信二维码.png){ target="_blank" } -->
 - :simple-github: [ __GitHub__ : Easton](https://github.com/isEastonLee){ target="_blank" }
 - :simple-tiktok: [ __抖音__ : 不叫李宛 ](https://www.douyin.com/user/MS4wLjABAAAAOvMRoJmc5JWGlQQh0Db9Iml88UFzcLf0wmfEIi4GWEvBIUPGaDtuopwiqyE4C3an?from_tab_name=main&vid=7358879260318207242){ target="_blank" }
