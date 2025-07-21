@@ -69,17 +69,6 @@ glightbox: false
 
 ---
 
-<!-- ## AI Collection
-
-<div class="grid cards" markdown>
-
-- :other-txyz: [__TXYZ__](https://app.txyz.ai/){target="_blank"}
-- :octicons-ai-model-16: [__AIGC检测__](https://matrix.tencent.com/ai-detect/){target="_blank"}
-- :other-speedai: [__SpeedAI降AIGC__](https://kuaipaper.com/home){target="_blank"}
-- :fontawesome-brands-google-scholar: [__谷歌学术__](https://scholar.google.com/){target="_blank"}
-
-</div> -->
-
 
 ## Website Collection
 
