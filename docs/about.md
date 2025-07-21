@@ -15,6 +15,10 @@ glightbox: false
     line-height: 0;
     margin: 0 0 0 0;
   }
+
+  .copy-button {
+      margin-top: 5px;
+  }
 </style>
 
 <link rel="stylesheet" href="/stylesheets/index.css">
