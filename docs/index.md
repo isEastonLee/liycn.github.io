@@ -17,35 +17,33 @@ glightbox: false  # 禁止图片放大  或者在标签中使用 class="on-glb" 
     margin: 0 0 0 0;
   }
 
-.md-content__inner{
+  .md-content__inner{
     padding-top: 0em;
   }
 
   /* 默认不修改背景 */
-  body {
+  /* body {
     background-image: url("../images/home/DSC_2943.JPG");
-    background-size: cover;               /* 全屏铺满，保持比例，裁剪多余部分 */
+    background-size: cover;              
     background-repeat: no-repeat;
-    background-position: center center;   /* 水平 & 垂直方向都居中 */
-    background-attachment: fixed;         /* 背景固定（可选，可改为 scroll） */
-    background-color: #000;               /* 防止加载期间白屏 */
+    background-position: center center;  
+    background-attachment: fixed;        
+    background-color: #000;              
   }
 
   .md-header,
   .md-footer {
-    background: rgba(255, 255, 255, 0);         /* 半透明白色背景 */
-    backdrop-filter: blur(1px);                   /* 毛玻璃模糊效果 */
-    -webkit-backdrop-filter: blur(1px);           /* Safari 兼容 */
-    /* color: #fff; */
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0);  /* 轻微阴影增加立体感 */
+    background: rgba(255, 255, 255, 0);      
+    backdrop-filter: blur(1px);               
+    -webkit-backdrop-filter: blur(1px);       
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0); 
   }
 
   .md-footer-meta {
-    background: rgba(255, 255, 255, 0.5);         /* 半透明白色背景 */
-    backdrop-filter: blur(3px);                   /* 毛玻璃模糊效果 */
-    -webkit-backdrop-filter: blur(3px);           /* Safari 兼容 */
-    /* color: #fff; */
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0);  /* 轻微阴影增加立体感 */
+    background: rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(3px);           
+    -webkit-backdrop-filter: blur(3px);   
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0);
   }
 
   .md-tabs , [data-md-color-primary=black] .md-header , [data-md-color-primary=black] .md-tabs{
@@ -61,8 +59,8 @@ glightbox: false  # 禁止图片放大  或者在标签中使用 class="on-glb" 
   }
 
   .md-footer, .md-footer-meta { 
-  display: block; /* 或者 inline-block / flex，根据你的布局情况 */
-  }
+  display: block; 
+  } */
 
   /* 当视口宽度小于1220px时隐藏 */
   @media (max-width: 1219px) {
