@@ -23,7 +23,6 @@ glightbox: false
 
 <h2 align="center" style="font-weight: bolder; margin-top: 0;line-height:1;">
   <b>Always believe that something wonderful is about to happen.</b>
-  <br>- 永远相信美好的事情即将发生 -
 </h2>
 
 <div class="grid cards" markdown>
@@ -126,15 +125,7 @@ glightbox: false
     [代码高亮](https://highlightcode.com/){target="_blank" .md-button }
     [美国地址生成](https://usaddressgen.com/){target="_blank" .md-button }
     [电子印章](http://web.aa6666.com/){target="_blank" .md-button }
-
--   :icons8-webutility: __Web Utility__
-
-    ---
-
-    [Web Utility](https://webutility.io/){target="_blank" .md-button }
-    [GetWebFacicon](https://webutility.io/favicon-extractor){target="_blank" .md-button }
     [png2svg](https://webutility.io/image-to-svg-converter){target="_blank" .md-button }
-    [键盘测试](https://webutility.io/keyboard-tester){target="_blank" .md-button}
 
 -   :icons8-学术工具: __学术工具__
 
@@ -145,6 +136,14 @@ glightbox: false
     [降AIGC](https://kuaipaper.com/home){target="_blank" .md-button }
     [TXYZ](https://app.txyz.ai/){target="_blank" .md-button }
     [Metaso](https://metaso.cn/){target="_blank" .md-button }
+
+-   :icons8-Apple: __Apple__
+
+    ---
+
+    [Apple](https://www.apple.com/){target="_blank" .md-button }
+    [iCloud](https://www.icloud.com.cn/){target="_blank" .md-button }
+    
 
 -   :icons8-Microsoft: __Microsoft__
 
@@ -170,37 +169,28 @@ glightbox: false
 
 <div class="grid cards" markdown>
 
--   :other-pixpin: __PixPin__
+-   :other-pixpin: [__PixPin__](https://pixpin.cn/){target="_blank"}
 
     ---
 
     屏幕截图，录制屏幕，长截图，文字识别，贴图，以及更多功能
 
-    [:octicons-arrow-right-24: 去看看](https://pixpin.cn/){target="_blank"}
-
--   :other-termius: __Termius__
+-   :other-termius: [__Termius__](https://termius.com/){target="_blank"}
 
     ---
 
     跨平台的终端模拟器和 SSH 客户端 - 为提高生产力和协作而构建
 
-    [:octicons-arrow-right-24: 去看看](https://termius.com/){target="_blank"}
-
--   :icons8-sms: __SMS - Activate__ 
+-   :icons8-sms: [__SMS - Activate__](https://sms-activate.io/cn){target="_blank"}
 
     ---
 
-    绕过地区限制，无需使用实体 SIM 卡即可接收 180 多个国家的短信验证。
+    绕过地区限制，无需使用实体 SIM 卡即可接收 180 多个国家的短信验证
     
-    [:octicons-arrow-right-24: 去看看](https://sms-activate.io/cn){target="_blank"}
-
--    :other-LocalSend: __Local Send__ 
+-    :other-LocalSend: [__Local Send__](https://localsend.org/zh-CN){target="_blank"}
 
     ---
 
-    将文件分享到附近的设备。免费、开源、跨平台。
-    
-    [:octicons-arrow-right-24: 去看看](https://localsend.org/zh-CN){target="_blank"}
-
+    将文件分享到附近的设备。免费、开源、跨平台
 
 </div>
