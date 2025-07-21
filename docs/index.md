@@ -21,6 +21,10 @@ glightbox: false  # 禁止图片放大  或者在标签中使用 class="on-glb" 
     padding-top: 0em;
   }
 
+  .md-content{
+    margin-top:80px;
+  }
+
   /* 默认不修改背景 */
   /* body {
     background-image: url("../images/home/DSC_2943.JPG");
