@@ -19,7 +19,6 @@ glightbox: false
 
 <h2 align="center" style="font-weight: bolder; margin-top: 0;line-height:1;">
   <b>Technology is no longer inaccessible, it serves the people.</b>
-  <br>- 科技不再是高高在上，而是服务于人民 -
 </h2>
 
 ---
@@ -28,29 +27,13 @@ glightbox: false
 
 <div class="grid cards" markdown>
 
-- [ :octicons-arrow-right-24: __骄骄__ ](https://dxlcq.cn){target="_blank"}
-  
-    ---
-
-    骄骄是骄傲的骄
+- [ :octicons-arrow-right-24: __骄 骄__ ](https://dxlcq.cn){target="_blank"}
     
 - [ :octicons-arrow-right-24: __Sevenalist__ ](https://dczcq.cn){target="_blank"}
-  
-    ---
-
-    Never Stop Thinking.
     
-- [ :octicons-arrow-right-24: __W W__ ](https://wanjc.top){target="_blank"}
-  
-    ---
-
-    据本人所说是帅哥
+- [ :octicons-arrow-right-24: __WW__ ](https://wanjc.top){target="_blank"}
 
 - [ :octicons-arrow-right-24: __Qvi__ ](https://qvi.dpdns.org){target="_blank"}
-
-    ---
-
-    成都土著，多了不解释
         
 </div>
 
