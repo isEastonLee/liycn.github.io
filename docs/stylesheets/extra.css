@@ -1,20 +1,21 @@
-*{
-  --md-text-font: "MiSans";
-  font-variant-numeric: tabular-nums;
-}
-
-.md-grid {
-  max-width: 1440px; 
-}
-
 @font-face {
   font-family: "MiSans";
   src: url("https://font.sec.miui.com/font/css?family=MiSans:400,700:MiSans");
 }
 
-:root {
-  --md-text-font: "MiSans"; 
+/* *{
+  --md-text-font: "MiSans";
+  font-variant-numeric: tabular-nums;
+} */
+
+.md-grid {
+  max-width: 1440px; 
 }
+
+
+/* :root {
+  --md-text-font: "MiSans"; 
+} */
 
 .md-button{
   margin: 2px 0 2px 0;
@@ -39,4 +40,24 @@
   display: inline-block;
   min-width: 180px; 
   /* text-align: center; */
+}
+
+h2 {
+  font-family: 'Chiron Sung HK';
+}
+
+.md-typeset h2 {
+  font-weight: 700;
+}
+
+.copy-button {
+  float: right;
+  margin-left: 1rem;
+  margin-top: 5px;
+  cursor: pointer;
+  color: var(--md-default-fg-color--lightest);
+}
+
+.copy-button:hover {
+  color: var(--md-accent-fg-color);
 }
