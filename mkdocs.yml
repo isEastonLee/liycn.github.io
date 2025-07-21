@@ -12,6 +12,9 @@ theme:
   custom_dir: overrides
   favicon: images/avatar/spider-man.svg       # 网站图标
 
+  font:
+    text: Chiron Sung HK
+
   icon:
     logo: other/spiderman                     # Logo 图标
     repo: fontawesome/brands/github           # 仓库图标
