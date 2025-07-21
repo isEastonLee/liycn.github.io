@@ -27,13 +27,13 @@ glightbox: false
 
 <div class="grid cards" markdown>
 
-- [ :octicons-arrow-right-24: __骄 骄__ ](https://dxlcq.cn){target="_blank"}
-    
-- [ :octicons-arrow-right-24: __Sevenalist__ ](https://dczcq.cn){target="_blank"}
-    
-- [ :octicons-arrow-right-24: __WW__ ](https://wanjc.top){target="_blank"}
+- [__骄 骄__ ](https://dxlcq.cn){target="_blank"} [:octicons-arrow-right-24:](https://dxlcq.cn){.copy-button target="_blank"}
 
-- [ :octicons-arrow-right-24: __Qvi__ ](https://qvi.dpdns.org){target="_blank"}
+- [__Sevenalist__ ](https://dczcq.cn){target="_blank"} [:octicons-arrow-right-24:](https://dxlcq.cn){.copy-button target="_blank"}
+
+- [__WW__ ](https://wanjc.top){target="_blank"} [:octicons-arrow-right-24:](https://dxlcq.cn){.copy-button target="_blank"}
+
+- [__Qvi__ ](https://qvi.dpdns.org){target="_blank"} [:octicons-arrow-right-24:](https://dxlcq.cn){.copy-button target="_blank"}
         
 </div>
 
