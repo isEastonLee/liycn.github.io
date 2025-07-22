@@ -74,7 +74,6 @@ glightbox: false
     **全日制本科** | **数据科学与大数据技术**
 
     相关： [学校官网](https://www.cque.edu.cn/){target="_blank"}
-    
 
 - **2020年9月 ~ 2023年7月**
 
@@ -86,8 +85,7 @@ glightbox: false
 
     **全日制专科** | **物联网应用技术**
 
-    相关： [学校官网](https://www.cqny.edu.cn/){target="_blank"}
-    
+    相关： [学校官网](https://www.cqny.edu.cn/){target="_blank"} 
 
 </div>
 

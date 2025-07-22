@@ -4,6 +4,8 @@
 
   /* 链接字体色 */
   --md-typeset-a-color: #000;
+
+  --md-default-fg-color--lightest: #fff;
 }
 
 .md-content__inner {
@@ -29,6 +31,9 @@
   .md-nav--lifted>.md-nav__list>.md-nav__item--active>.md-nav__link{
     background-color: rgba(0, 0, 0, 0);
     box-shadow: none;
+  }
+  [data-md-color-primary=white] .md-tabs{
+    border-bottom: 0;
   }
 }
 
