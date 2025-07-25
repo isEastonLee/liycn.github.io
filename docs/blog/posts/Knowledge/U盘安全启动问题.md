@@ -2,6 +2,10 @@
 date:
    created: 2025-01-20
    updated: 2025-01-20
+categories:
+  - Knowledge
+tags:
+  - Knowledge
 readtime: 15
 authors:
   - lee

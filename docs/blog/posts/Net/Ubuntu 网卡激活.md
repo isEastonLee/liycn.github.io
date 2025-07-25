@@ -1,6 +1,10 @@
 ---
 date:
    created: 2025-03-30
+categories:
+  - Net
+tags:
+  - Net
 readtime: 10
 authors:
   - lee
