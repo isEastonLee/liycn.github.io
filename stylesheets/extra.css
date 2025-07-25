@@ -1,0 +1,307 @@
+:root  > * {
+  /* 链接背景色 */
+  --md-accent-fg-color: #000000;
+
+  /* 字体颜色 */
+  --md-typeset-a-color: rgba(255, 255, 255, 0.9);
+
+  /* 正文字体颜色 */
+  --md-default-fg-color:#000000bb;
+
+  /* h1、h2字体颜色 */
+  --md-default-fg-color--light: rgba(255, 255, 255, 0.6);
+  --md-default-fg-color--lightest: #fff;
+}
+
+/* 页面背景：铺满、 不重复、固定、居中*/
+body {
+  background-image: url("../images/home/wallpaper.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+/* h1、h2字体加粗、字形、字体颜色 */
+.md-typeset h1,
+.md-typeset h2 {
+  font-weight: 700;
+  font-family: 'Chiron Sung HK';
+  color: var(--md-default-fg-color--light);
+}
+
+/* 卡片的标题字体颜色 */
+.grid.cards>ul>li>p{
+  color: var(--md-default-fg-color--light);
+}
+
+/* 页面最大宽度 */
+.md-grid {
+  max-width: 1440px; 
+}
+
+/* 卡片组 */
+.md-typeset .grid.cards>ol>li>:first-child,
+.md-typeset .grid.cards>ul>li>:first-child,
+.md-typeset .grid>.card>:first-child{
+  margin-top: 3.4px;
+}
+
+[data-md-color-scheme=slate][data-md-color-primary=black],
+[data-md-color-scheme=slate][data-md-color-primary=blue-grey],
+[data-md-color-scheme=slate][data-md-color-primary=grey],
+[data-md-color-scheme=slate][data-md-color-primary=white]{
+  --md-typeset-a-color: hsl(0deg 0% 100% / 70%);
+}
+
+/* 正文字体颜色 */
+[data-md-color-scheme=slate]{
+    --md-default-fg-color: hsla(0, 0%, 0%, 0.9);
+}
+
+/* 卡片圆角大小 */
+.md-typeset .grid.cards>ol>li,
+.md-typeset .grid.cards>ul>li,
+.md-typeset .grid>.card {
+  border-radius: .5rem;
+  border: 0;
+}
+
+/* 博客主页面内容的头像一栏、左右导航栏的Blog、目录字样的顶部距离 */
+.md-post__header,
+.md-nav__title{
+  margin-top: 20px;
+}
+
+/* 博客主页面内容的头像一栏、左右导航栏的Blog、目录字样的低部距离 */
+.md-post__meta,
+.md-nav__list,
+.md-post__content{
+  margin-bottom: 10px;
+}
+
+/* 博客主页面内容的头像一栏、左右导航栏的Blog、目录字样的左右距离 */
+.md-post__header,
+.md-post__content{
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+/* 博客具体内容页面左侧导航栏的底部距离 */
+.md-post__back{
+  margin-bottom: 0.6rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 0;
+}
+
+/* 页脚copyright和按钮的样式 */
+.md-copyright,
+.md-footer-meta__inner{
+  padding: 0;
+}
+
+/* 按钮的样式 */
+.md-button{
+  margin: 2px 0 2px 0;
+  padding: .125em 1em;
+  display: inline-block;
+  min-width: 180px; 
+}
+
+/* ======================================================================================================== */
+
+/* 响应设计 */
+@media screen and (min-width: 76.25em){
+  .md-nav--lifted>.md-nav__list>.md-nav__item--active>.md-nav__link{
+    background-color: rgba(0, 0, 0, 0);
+    box-shadow: none;
+  }
+  .md-nav--primary .md-nav__title{
+    background-color: rgba(0, 0, 0, 0);
+    box-shadow: none;
+  }
+  [data-md-color-primary=white] .md-tabs{
+    border-bottom: 0;
+  }
+}
+
+@media screen and (min-width: 60em){
+  .md-nav--secondary .md-nav__title {
+    background-color: rgba(0, 0, 0, 0);
+    box-shadow: none;
+  }
+  [data-md-color-primary=white] .md-search__input+.md-search__icon {
+    color: hsl(0deg 0% 100% / 87%);
+  }
+}
+
+@media screen and (min-width: 45em) {
+    .md-social {
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 76.234375em) {
+  .md-nav--primary .md-nav__title {
+      color: #000;
+      background-color: #fff;
+  }
+  [data-md-color-primary=black] .md-nav--primary .md-nav__title {
+      color: #fff;
+      background-color: #1E2129;
+  }
+  .md-nav--primary .md-nav__item--active>.md-nav__link {
+      color: rgb(0 0 0 / 90%);
+  }
+  /* .md-nav--primary .md-nav__item--active>.md-nav__link:focus,.md-nav--primary .md-nav__item--active>.md-nav__link:hover {
+      color: var(--md-accent-fg-color)
+  } */
+}
+
+/* ======================================================================================================== */
+
+/* 导航栏及页脚的日间模式样式 */
+.md-header,
+.md-footer,
+.md-typeset code,
+.highlighttable .linenos,
+.md-typeset .admonition, 
+.md-typeset details,
+[data-md-color-primary=black] .md-dialog{
+  background: rgba(255, 255, 255, 0.4);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0);
+}
+
+/* 导航栏及页脚的夜间模式样式 */
+.md-dialog,
+[data-md-color-primary=black] .md-header,
+[data-md-color-primary=black] .md-footer,
+[data-md-color-primary=black] .md-typeset code,
+[data-md-color-primary=black] .highlighttable .linenos{
+  background: rgba(0, 0, 0, 0.4);
+}
+
+.md-typeset details,
+.md-typeset .admonition,
+[data-md-color-primary=black] .md-typeset .admonition,
+.md-typeset table:not([class]){
+  background: rgba(255, 255, 255, 0);
+}
+
+/* 导航栏字体颜色 */
+.md-header,
+.md-tabs,
+[data-md-color-primary=black] .md-ellipsis{
+  color: #fff;
+}
+
+/* 导航栏图标颜色 */
+[data-md-color-primary=black] .md-nav--primary .md-nav__link .md-nav__icon:after{
+  background-color: #fff;
+}
+
+[data-md-color-primary=black] .md-nav__item>[data-md-color-scheme=slate] {
+  --md-default-fg-color: hsla(0, 0%, 100%, 0.9);
+}
+
+/* 页脚的样式 */
+.md-footer-meta {
+  background: rgba(255, 255, 255, 0);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0);
+}
+
+/* 卡片及按钮的日间模式样式 */
+.md-typeset .grid.cards>ul>li,
+.md-top,
+.md-top:hover,
+.md-post{
+  background: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1)); 
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+/* 卡片及按钮的夜间模式样式 */
+[data-md-color-primary=black] .md-typeset .grid.cards>ul>li,
+[data-md-color-primary=black] .md-top,
+[data-md-color-primary=black] .md-top:hover,
+[data-md-color-primary=black] .md-post{
+  background: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1)); 
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+/* 卡片圆角 */
+.md-typeset .grid li,
+.md-sidebar__inner,
+.md-post{
+  border-radius: 10px;
+}
+
+/* 卡片鼠标移入的日间模式样式 */
+.md-typeset .grid.cards>ul>li:focus,
+.md-typeset .grid.cards>ul>li:hover{
+  background: linear-gradient(to right, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.2)); 
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  transition: 20s;
+}
+
+/* 卡片鼠标移入的夜间模式样式 */
+[data-md-color-primary=black] .md-typeset .grid.cards>ul>li:focus,
+[data-md-color-primary=black] .md-typeset .grid.cards>ul>li:hover{
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.2)); 
+}
+
+/* 按钮鼠标移入的日间模式样式 */
+.md-typeset .md-button:focus,
+.md-typeset .md-button:hover{
+  background-color:#00000064;
+  transition: 0.5s;
+}
+
+/* 按钮鼠标移入的夜间模式样式 */
+[data-md-color-primary=black] .md-typeset .md-button:focus,
+[data-md-color-primary=black] .md-typeset .md-button:hover{
+  background-color:#ffffff64;
+}
+
+/* 侧边栏 */
+.md-nav--primary,
+.md-nav--primary .md-nav,
+.md-search__form,
+[data-md-color-primary=black] .md-nav--primary,
+[data-md-color-primary=black] .md-nav--primary .md-nav,
+[data-md-color-primary=black] .md-search__form {
+  background-color:rgb(0,0,0,0);
+}
+
+/* 侧边栏当前页面的日间模式样式 */
+.md-nav__item .md-nav__link--active,
+.md-nav__item .md-nav__link--active code {
+    color: #000;
+}
+
+/* 侧边栏当前页面的夜间模式样式 */
+[data-md-color-primary=black] .md-nav__item .md-nav__link--active,
+[data-md-color-primary=black] .md-nav__item .md-nav__link--active code {
+    color: #ffffff;
+}
+
+/* 导航栏的标签背景设置为透明 */
+.md-tabs,
+[data-md-color-primary=black] .md-tabs{
+  background: rgba(255, 255, 255, 0);
+}
+
+/* 复制按钮的样式 */
+.copy-button {
+  float: right;
+  margin-left: 1rem;
+  cursor: pointer; 
+  color: var(--md-typeset-a-color);
+}
