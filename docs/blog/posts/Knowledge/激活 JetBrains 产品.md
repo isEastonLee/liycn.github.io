@@ -7,12 +7,12 @@ authors:
   - lee
 ---
 
+<!-- more -->
+<!-- 摘录结束 -->
+
 ## 1. 找到激活导航地址
 
 打开[网址](https://3.jetbra.in/)，选择成功连接的地址
-
-<!-- more -->
-<!-- 摘录结束 -->
 
 ![1.png](/images/blog/Knowledge/激活 JetBrains 产品/1.png)
 
