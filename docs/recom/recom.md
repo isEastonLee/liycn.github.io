@@ -35,10 +35,7 @@ glightbox: false
         
 </div>
 
----
-
 ## :icons8-openSource: 屌爆了的开源项目
-
 
 <div class="grid cards" markdown>
 

@@ -76,7 +76,7 @@ glightbox: false
     [:icons8-Outlook: &nbsp;__微软邮箱__](https://outlook.live.com/mail){target="_blank" .md-button .lee-button style="border:0"}
 
     [:icons8-Azure: &nbsp;__Azure__](https://portal.azure.com/#home){target="_blank" .md-button .lee-button style="border:0"}
-    [:icons8-Microsoft-Rewards: &nbsp;__微软积分__](https://rewards.bing.com/){target="_blank" .md-button .lee-button style="border:0"}
+    [:other-Microsoft-Rewards: &nbsp;__微软积分__](https://rewards.bing.com/){target="_blank" .md-button .lee-button style="border:0"}
 
     [:icons8-Google: &nbsp;__谷歌账号__](https://myaccount.google.com/){target="_blank" .md-button .lee-button style="border:0"}
     [:icons8-Gmail: &nbsp;__谷歌邮箱__](https://mail.google.com/mail){target="_blank" .md-button .lee-button style="border:0"}
